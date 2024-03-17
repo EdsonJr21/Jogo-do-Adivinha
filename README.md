@@ -1,12 +1,14 @@
 # Jogo do Adivinha
 
+![Logo do Jogo do Adivinha](img/projetoimg.png)
+
 ## Descrição
 
 Um jogo interativo em JavaScript que desafia o jogador a adivinhar um número secreto entre 1 e 10.
 
 ## Autor
 
-EdsonJr21
+**EdsonJr21**
 
 ## Funcionalidades
 
@@ -18,6 +20,6 @@ EdsonJr21
 
 ## Tecnologias utilizadas
 
-- <span style="color:green">HTML</span>
-- <span style="color:green">CSS</span>
-- <span style="color:yellow">JavaScript</span>
+[![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
